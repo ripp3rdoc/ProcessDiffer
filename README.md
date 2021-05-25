@@ -1,2 +1,2 @@
-# ProcessMonitor
-Process monitoring script for privilege escalation attack vectors.
+# ProcMon
+Process monitoring bash script for privilege escalation attack vectors on Linux systems.
